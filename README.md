@@ -1,5 +1,5 @@
 # simon game
-simon game 
+simon game or simon says game webpage
 
 Skills Required
 HTML CSS JAVASCRIPT BOOTSTRAP
