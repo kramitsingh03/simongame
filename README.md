@@ -25,5 +25,18 @@ Simon is a fun and challenging game that tests both memory and reflexes. It can 
 
 Reference : Wikipedia
 
+# HOW TO PLAY
+
+Start the Game: The game begins with a simple sequence of one color lighting up and emitting a sound.
+
+Watch and Listen: Pay close attention to the sequence. The button that lights up corresponds to a color, and it will also emit a sound. Remember both the color and the sound associated with the first step in the sequence.
+
+Repeat the Sequence: After the game unit plays the initial sequence, it's your turn. Press the button that corresponds to the first color and sound in the sequence. If you get it right, the game will add another step to the sequence.
+
+Continue Playing: The game keeps adding steps to the sequence, and you need to repeat the entire sequence in the correct order each time. You should follow the sequence of colors and sounds as it grows longer. Try to memorize the pattern as best as you can.
+
+Mistakes and Game Over: If you press the wrong button or fail to repeat the sequence correctly, the game will indicate that you've made a mistake, and it will end. Your score, which is usually based on the number of steps you completed correctly, will be displayed.
+
+Retry: If you want to play again and try to beat your previous score, you can press a designated button (often labeled "Start" or "Retry") to begin a new game.
 
 
