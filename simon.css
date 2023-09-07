@@ -31,3 +31,6 @@ body{
 .userflash{
     background-color: aqua;
 }
+#highscore{
+    font-family: 'Times New Roman', Times, serif;
+}
