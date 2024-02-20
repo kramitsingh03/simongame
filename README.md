@@ -38,6 +38,6 @@ Continue Playing: The game keeps adding steps to the sequence, and you need to r
 Mistakes and Game Over: If you press the wrong button or fail to repeat the sequence correctly, the game will indicate that you've made a mistake, and it will end. Your score, which is usually based on the number of steps you completed correctly, will be displayed.
 
 Retry: If you want to play again and try to beat your previous score, you can press a designated button (often labeled "Start" or "Retry") to begin a new game.
-#Project Link : https://kramitsingh03.github.io/simongame2.0/
+#Project Link : https://kramitsingh03.github.io/simongame/
 
 
